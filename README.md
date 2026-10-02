@@ -20,20 +20,20 @@ A proposta é tornar a consulta aos materiais mais **visual, organizada e acess�
 
 ---
 
-## ✨ Funcionalidades
+## Funcionalidades
 
-* 📚 Galeria de materiais digitais
-* 📖 Visualização dos conteúdos em formato Flipbook
-* 🗂️ Organização por categorias
-* ⭐ Seção de materiais em destaque
-* 📱 Layout responsivo
-* 🎨 Identidade visual da Aquastar
-* 🔗 Integração com Flipbooks hospedados no Heyzine
-* 📞 Seção de contato
+*  Galeria de materiais digitais
+*  Visualização dos conteúdos em formato Flipbook
+*  Organização por categorias
+*  Seção de materiais em destaque
+*  Layout responsivo
+*  Identidade visual da Aquastar
+*  Integração com Flipbooks hospedados no Heyzine
+*  Seção de contato
 
 ---
 
-## 🗂️ Organização
+## Organização
 
 A galeria apresenta os materiais organizados em categorias, como:
 
@@ -46,7 +46,7 @@ Essa organização facilita a localização dos conteúdos de acordo com o tipo 
 
 ---
 
-## 🛠️ Tecnologias
+## Tecnologias
 
 O projeto utiliza tecnologias de desenvolvimento web para construção da interface:
 
@@ -62,7 +62,7 @@ O projeto utiliza tecnologias de desenvolvimento web para construção da interf
 
 ---
 
-## 🎨 Identidade visual
+## Identidade visual
 
 A interface segue uma abordagem **minimalista, institucional e moderna**, utilizando elementos visuais alinhados à identidade da Aquastar.
 
@@ -74,7 +74,7 @@ A combinação com branco, cinza e espaços de respiro mantém o foco nos materi
 
 ---
 
-## 🚀 Publicação
+## Publicação
 
 O projeto está hospedado no **GitHub Pages**.
 
@@ -91,13 +91,13 @@ Aquastar Flipbooks
 Acesso pelo navegador
 ```
 
-### 🔗 Página publicada
+### Página publicada
 
 https://izzarodrigues.github.io/Flipbooks_Aquastar_Projeto_Inicial/
 
 ---
 
-## 🏢 Contexto
+## Contexto
 
 O projeto foi desenvolvido para a **Aquastar**, com o objetivo de criar uma experiência digital para apresentação e acesso aos seus materiais técnicos e comerciais.
 
@@ -105,7 +105,7 @@ A iniciativa combina **desenvolvimento web, organização de conteúdo e design 
 
 ---
 
-## 👩‍💻 Desenvolvimento
+## Desenvolvimento
 
 **Izadora Maria Rodrigues**
 

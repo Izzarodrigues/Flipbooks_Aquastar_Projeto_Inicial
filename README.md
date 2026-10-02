@@ -1,6 +1,8 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
-> <BookCopy /> Galeria digital de catálogos, manuais e materiais técnicos da Aquastar.
+<img src="https://unpkg.com/lucide-static@latest/icons/book-copy.svg" width="20" height="20" align="absmiddle">
+
+Galeria digital de catálogos, manuais e materiais técnicos da Aquastar.
 
 ## Acesse o projeto
 

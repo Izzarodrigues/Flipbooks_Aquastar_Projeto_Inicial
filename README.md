@@ -1,7 +1,7 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
 <p>
- <img src="https://unpkg.com/lucide-static@latest/icons/book-copy.svg" width="20" height="20" alt="BookCopy">
+ <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="18">
   <strong>Galeria digital</strong> de catálogos, manuais e materiais técnicos da Aquastar.
 </p>
 

@@ -1,8 +1,9 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
-<img src="https://unpkg.com/lucide-static@latest/icons/book-copy.svg" width="20" height="20" align="absmiddle">
-
-Galeria digital de catálogos, manuais e materiais técnicos da Aquastar.
+<p>
+  <img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNCIgaGVpZ2h0PSIyNCIgdmlld0JveD0iMCAwIDI0IDI0IiBmaWxsPSJub25lIiBzdHJva2U9IiNmZmZmZmYiIHN0cm9rZS13aWR0aD0iMiIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIiBjbGFzcz0ibHVjaWRlIGx1Y2lkZS1ib29rLWNvcHkgcHJldmlldy1pY29uIj48cGF0aCBkPSJNNSA3YTIgMiAwIDAgMC0yIDJ2MTEiLz48cGF0aCBkPSJNNS44MDMgMThINWEyIDIgMCAwIDAgMCA0aDkuNWEuNS41IDAgMCAwIC41LS41VjIxIi8+PHBhdGggZD0iTTkgMTVWNGEyIDIgMCAwIDEgMi0yaDkuNWEuNS41IDAgMCAxIC41LjV2MTRhLjUuNSAwIDAgMS0uNS41SDExYTIgMiAwIDAgMSAwLTRoMTAiLz48L3N2Zz4=" width="20" align="absmiddle">
+  <strong>Galeria digital</strong> de catálogos, manuais e materiais técnicos da Aquastar.
+</p>
 
 ## Acesse o projeto
 

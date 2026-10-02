@@ -1,7 +1,6 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
 <p>
- <img src="https://cdn.simpleicons.org/book/ffffff" width="20">
   <strong>Galeria digital</strong> de catálogos, manuais e materiais técnicos da Aquastar.
 </p>
 

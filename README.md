@@ -1,8 +1,8 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
-> Galeria digital de catálogos, manuais e materiais técnicos da Aquastar.
+> <BookCopy /> Galeria digital de catálogos, manuais e materiais técnicos da Aquastar.
 
-## 🌐 Acesse o projeto
+## Acesse o projeto
 
 **[🔗 Abrir Aquastar Flipbooks](https://izzarodrigues.github.io/Flipbooks_Aquastar_Projeto_Inicial/)**
 
@@ -10,7 +10,7 @@ O projeto está publicado através do **GitHub Pages**, permitindo acesso direto
 
 ---
 
-## 📖 Sobre o projeto
+## Sobre o projeto
 
 O **Aquastar Flipbooks** é uma galeria digital criada para organizar e apresentar catálogos, manuais, guias e outros materiais técnicos da Aquastar em um único ambiente.
 

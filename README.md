@@ -1,7 +1,7 @@
 # Flipbooks_Aquastar_Projeto_Inicial
 
 <p>
- <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/github.svg" width="18">
+ <img src="https://cdn.simpleicons.org/github/ffffff" width="20">
   <strong>Galeria digital</strong> de catálogos, manuais e materiais técnicos da Aquastar.
 </p>
 
